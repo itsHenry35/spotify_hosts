@@ -1,0 +1,17 @@
+35.186.224.20 spclient.wg.spotify.com
+35.186.224.20 wg.spotify.com
+35.186.224.20 gae-spclient.spotify.com
+35.186.224.20 gae2-spclient.spotify.com
+35.186.224.20 api-partner.spotify.com
+35.186.224.20 login5.spotify.com
+35.186.224.20 apresolve.spotify.com
+35.186.224.20 accounts.spotify.com
+35.186.224.20 api.spotify.com
+199.232.86.248 misc.scdn.co
+199.232.86.248 i.scdn.co
+199.232.86.248 newjams-images.scdn.co
+199.232.86.248 dailymix-images.scdn.co
+199.232.86.248 thisis-images.scdn.co
+199.232.86.248 charts-images.scdn.co
+199.232.86.248 seeded-session-images.scdn.co
+199.232.86.248 download.scdn.co
